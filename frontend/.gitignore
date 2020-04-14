@@ -1,0 +1,9 @@
+# jest coverage output
+coverage/
+
+# Log files
+yarn-debug.log*
+yarn-error.log*
+
+# storybook build output
+storybook-static/

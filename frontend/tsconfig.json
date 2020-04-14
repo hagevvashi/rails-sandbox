@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "strict": true,
+    "noEmit": true
+  },
+  "include": [
+    "types/**/*",
+    "src/**/*",
+    "tests/**/*",
+    "webpack.*.ts"
+  ]
+}
